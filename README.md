@@ -1,6 +1,6 @@
 ### Buenas buenass 👋
 
-Me llamo Miguel Vásquez y soy estudiante de Ingeniería informática en la Universidad de Buenos Aires. 🏂
+Me llamo Miguel Vásquez, soy estudiante de Ingeniería informática en la Universidad de Buenos Aires. 🏂
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MiguelV5&theme=tokyonight&count_private=true&show_icons=true&hide=issues"  />
 
