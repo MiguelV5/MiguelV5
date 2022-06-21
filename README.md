@@ -1,4 +1,4 @@
-### Buenas buenass 👋
+### Buenas buenass 
 
 Me llamo Miguel Vásquez, soy estudiante de Ingeniería en Informática en la Universidad de Buenos Aires (FIUBA). 🏂
 
