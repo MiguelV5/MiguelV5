@@ -36,9 +36,6 @@ Tecnologías / herramientas principales que he utilizado:
   <a href="#"><img src="https://img.shields.io/badge/-Colab-informational?style=for-the-badge&logo=google-colab&logoColor=F9AB00&color=3D3D3D&labelColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-Golang-informational?style=for-the-badge&logo=go&logoColor=00ADD8&color=3D3D3D&labelColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-R-informational?style=for-the-badge&logo=r&logoColor=276DC3&color=3D3D3D&labelColor=black" /></a>
-  </p>
-  
-  <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-Markdown-informational?style=for-the-badge&logo=markdown&logoColor=FFFFFF&color=3D3D3D&labelColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-Git-informational?style=for-the-badge&logo=git&logoColor=F05032&color=3D3D3D&labelColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=3D3D3D&labelColor=black" /></a>
