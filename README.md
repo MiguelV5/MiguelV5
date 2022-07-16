@@ -55,8 +55,8 @@ Tecnologías / herramientas principales que he utilizado:
   <summary> GitHub Stats </summary>
 
   <br>
-  <a href="#"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelV5&hide=Makefile,Batchfile,Oz,Jupyter Notebook,Assembly,TeX&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/MiguelV5/github-readme-stats"  />
-    <img align="center" width="53%" src="https://github-readme-stats.vercel.app/api?username=MiguelV5&theme=tokyonight&count_private=true&show_icons=true" />
+  <a href="#"><img align="right" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelV5&hide=Makefile,Batchfile,Oz,Jupyter Notebook,Assembly,TeX&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/MiguelV5/github-readme-stats"  />
+    <img align="center" width="52%" src="https://github-readme-stats.vercel.app/api?username=MiguelV5&theme=tokyonight&count_private=true&show_icons=true" />
   </a>
   
 </details>
