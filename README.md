@@ -1,4 +1,4 @@
-<a href="#"><img align="center" src= "https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/copying.gif" /></a>
+<a href="https://github.com/MiguelV5#-buenas-buenass--"><img align="center" src= "https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/copying.gif" /></a>
 
 
 <h2 align="left"> Buenas buenass 🏂 </h2>
@@ -56,8 +56,8 @@ Tecnologías / herramientas principales que he utilizado:
 
   <br>
   <a href="#">
-  <img align="center" width="52%" src="https://github-readme-stats.vercel.app/api?username=MiguelV5&theme=vision-friendly-dark&count_private=true&show_icons=true" />
-  <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelV5&hide=Makefile,Batchfile,Oz,Jupyter Notebook,Assembly,TeX&layout=compact&theme=vision-friendly-dark&langs_count=10)](https://github.com/MiguelV5/github-readme-stats"  />
+  <img align="center" width="52%" src="https://github-readme-stats.vercel.app/api?username=MiguelV5&custom_title=GH%20Stats&title_color=46FFBC&icon_color=58A6FF&text_color=FFFFFF&hide_border=true&bg_color=60,0D1117,131925,354D77&count_private=true&include_all_commits=true&show_icons=true" />
+  <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelV5&hide=Makefile,Batchfile,Oz,Jupyter%20Notebook,Assembly,TeX&layout=compact&title_color=46FFBC&icon_color=58A6FF&text_color=FFFFFF&hide_border=true&bg_color=60,0D1117,131925,354D77&langs_count=10"  />
   </a>
   
 </details>
