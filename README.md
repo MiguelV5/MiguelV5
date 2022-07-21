@@ -74,3 +74,5 @@ Tecnologías / herramientas principales que he utilizado:
   </p>
   
   <br>
+
+ 
