@@ -10,7 +10,7 @@ Me llamo Miguel Vásquez, soy estudiante de Ingeniería en Informática en la Un
 
 ---
 
-<a href="#"><img align="left" height="28" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/Soul_of_Sight.gif" /></a>
+<a href="#"><img align="left" height="28" width="28" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/Soul_of_Sight.gif" /></a>
 
 <details>
   <summary> Toolbox 🛠</summary>
@@ -49,7 +49,7 @@ Tecnologías / herramientas principales que he utilizado:
 
 ---
 
-<a href="#"><img align="left" height="27" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/Soul_of_Flight_no_bg.gif" /></a>
+<a href="#"><img align="left" height="27" width="27"  src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/Soul_of_Flight_no_bg.gif" /></a>
 
 <details>
   <summary> GitHub Stats </summary>
