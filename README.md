@@ -1,5 +1,6 @@
+<!---
 <a href="#"><img align="center" src= "https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/copying.gif" /></a>
-
+--->
 
 <h2 align="left"> Buenas buenass 🏂 </h2>
 
@@ -52,7 +53,7 @@ Tecnologías / herramientas principales que he utilizado:
 <a href="#"><img align="left" height="27" width="27"  src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/Soul_of_Flight_no_bg.gif" /></a>
 
 <details>
-  <summary> GitHub Stats </summary>
+  <summary> GitHub Stats 🔋</summary>
 
   <br>
   <a href="#">
