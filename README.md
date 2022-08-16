@@ -39,7 +39,7 @@ My name is Miguel Vásquez, I'm a Computer Science Engineering Student @ FIUBA (
   <a href="#"><img src="https://img.shields.io/badge/-Git-informational?style=for-the-badge&logo=git&logoColor=F05032&color=181727&labelColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=181727&labelColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-GitLab-informational?style=for-the-badge&logo=gitlab&logoColor=white&color=181727&labelColor=black" /></a>
-  <!---<a href="#"><img src="https://img.shields.io/badge/-Replit-informational?style=for-the-badge&logo=replit&logoColor=white&color=181727&labelColor=black" /></a>--->
+  <a href="#"><img src="https://img.shields.io/badge/-Replit-informational?style=for-the-badge&logo=replit&logoColor=white&color=181727&labelColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-VBox-informational?style=for-the-badge&logo=virtualbox&logoColor=white&color=181727&labelColor=black" /></a>
   </p>
 
