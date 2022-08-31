@@ -57,11 +57,11 @@ My name is Miguel Vásquez, I'm a Computer Science Engineering student @ FIUBA (
   <br>
   
   <a href="#">
-  <img align="center" width="52%" src="https://github-readme-stats.vercel.app/api?username=MiguelV5&custom_title=GH%20Stats&title_color=46FFBC&icon_color=5FA7FA&text_color=FFFFFF&border_color=0D1117&bg_color=60,0D1117,131925,354D77&count_private=true&include_all_commits=true&show_icons=true" />
+  <img align="center" width="52%" src="https://githubreadme-stats-miguelv5.vercel.app/api?username=MiguelV5&custom_title=GH%20Stats&title_color=46FFBC&icon_color=5FA7FA&text_color=FFFFFF&border_color=0D1117&bg_color=60,0D1117,131925,354D77&count_private=true&include_all_commits=true&show_icons=true" />
   </a>
   
   <a href="#">
-  <img align="center" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelV5&hide=Makefile,Batchfile,Oz,Jupyter%20Notebook,Assembly,TeX,HTML,CSS,JavaScript&layout=compact&title_color=46FFBC&icon_color=58A6FF&text_color=FFFFFF&border_color=0D1117&bg_color=60,0D1117,131925,354D77&langs_count=10"  />
+  <img align="center" width="44%" src="https://githubreadme-stats-miguelv5.vercel.app/api/top-langs/?username=MiguelV5&hide=Makefile,Batchfile,Oz,Jupyter%20Notebook,Assembly,TeX,HTML,CSS,JavaScript&layout=compact&title_color=46FFBC&icon_color=58A6FF&text_color=FFFFFF&border_color=0D1117&bg_color=60,0D1117,131925,354D77&langs_count=10"  />
   </a>
   
   <br>
