@@ -66,7 +66,7 @@ My name is Miguel Vásquez, I'm a Computer Science Engineering student @ FIUBA (
   
   <br>
   <br>
-  <a href="#"><p align="center"><img src="https://komarev.com/ghpvc/?username=MiguelV5&style=for-the-badge&color=181727&label=Visitors" /></p></a>
+  <!---<a href="#"><p align="center"><img src="https://komarev.com/ghpvc/?username=MiguelV5&style=for-the-badge&color=181727&label=Visitors" /></p></a>--->
   
 </details>
 
