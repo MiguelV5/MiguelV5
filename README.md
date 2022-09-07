@@ -23,7 +23,7 @@ My name is Miguel Vásquez, I'm a Computer Science Engineering student @ FIUBA (
   <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/OS-Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=E95420&color=E95420&labelColor=black" /></a>  
   <a href="#"><img src="https://img.shields.io/badge/Shell-Zsh-informational?style=for-the-badge&logo=gnu-bash&logoColor=43AB38&color=43AB38&labelColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Editor-VS_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4&color=0078d4&labelColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Editor-VSC-informational?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4&color=0078d4&labelColor=black" /></a>
   </p>
   
   <p align="center">
