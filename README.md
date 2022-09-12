@@ -46,7 +46,6 @@ My name is Miguel Vásquez, I'm a Computer Science Engineering student @ FIUBA (
 </details>
 
 
-
 ---
 
 <a href="#"><img align="left" height="25" width="25"  src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/Soul_of_Flight_no_bg.gif" /></a>
