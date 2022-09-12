@@ -79,5 +79,5 @@ My name is Miguel Vásquez, I'm a Computer Science Engineering student @ FIUBA (
     <a href="#"><img  height="84" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/ferris_pixel_no_bg.gif" /></a>
   </p>
   
-
+<br>
  
