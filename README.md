@@ -5,7 +5,6 @@
 <h2 align="left"> Welcome! How is it going? 🏂 </h2>
 
 
-
 My name is Miguel Vásquez, I'm a Computer Science Engineering student @ FIUBA (Universidad de Buenos Aires). 
 
 
