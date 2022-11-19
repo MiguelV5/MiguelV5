@@ -45,7 +45,7 @@ My name is Miguel Vásquez, I'm a Computer Science Engineering student @ FIUBA (
   <a href="#"><img src="https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=HTML5&logoColor=E34F26&color=181727&labelColor=black" /></a>
   </p>
   
-<p align="center">・ Libraries/Frameworks:</p>
+<p align="center">・ Libraries / Frameworks:</p>
   <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-Pandas-informational?style=for-the-badge&logo=pandas&logoColor=white&color=181727&labelColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-Scikit%20Learn-informational?style=for-the-badge&logo=scikit-learn&logoColor=F7931E&color=181727&labelColor=black" /></a>
