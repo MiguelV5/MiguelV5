@@ -70,7 +70,7 @@ My name is Miguel Vásquez, I'm a Computer Science Engineering student @ FIUBA (
 
 <br>
   
-<p align="center">Utilities I want to learn in the future:</p>
+<p align="center">Stuff I want to learn in the future:</p>
 <p align="center">Ruby, Haskell, Lua, Javascript, React, Angular, CSS, Sass, Typescript, Java, Kotlin, Vim, Kubernetes... and many others.</p>
   
 </details>
