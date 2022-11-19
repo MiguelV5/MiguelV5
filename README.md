@@ -70,8 +70,8 @@ My name is Miguel Vásquez, I'm a Computer Science Engineering student @ FIUBA (
 
 <br>
   
-<p align="center">Stuff I want to learn in the future:</p>
-<p align="center">Ruby, Haskell, Lua, Javascript, React, Angular, CSS, Sass, Typescript, Java, Kotlin, Vim, Kubernetes... and many others.</p>
+<p align="center">Stuff I want to learn or improve in the future:</p>
+<p align="center">Ruby, Haskell, Lua, JavaScript, TypeScript, React, Angular, CSS, Sass, Java, Kotlin, Vim, Kubernetes... and many others.</p>
   
 </details>
 
@@ -90,7 +90,7 @@ My name is Miguel Vásquez, I'm a Computer Science Engineering student @ FIUBA (
   </a>
   
   <a href="#">
-  <img align="center" width="44%" src="https://githubreadme-stats-miguelv5.vercel.app/api/top-langs/?username=MiguelV5&hide=Makefile,Batchfile,Oz,Jupyter%20Notebook,Assembly,TeX,HTML,CSS,JavaScript&layout=compact&title_color=46FFBC&icon_color=58A6FF&text_color=FFFFFF&hide_border=true&bg_color=60,0D1117,131925,354D77&langs_count=10"  />
+  <img align="center" width="44%" src="https://githubreadme-stats-miguelv5.vercel.app/api/top-langs/?username=MiguelV5&hide=Makefile,Batchfile,Oz,Jupyter%20Notebook,Assembly,TeX&layout=compact&title_color=46FFBC&icon_color=58A6FF&text_color=FFFFFF&hide_border=true&bg_color=60,0D1117,131925,354D77&langs_count=10"  />
   </a>
   <!--- en caso de que falle el hide_border: border_color=0D1117  --->
   <!---<a href="#"><p align="center"><img src="https://komarev.com/ghpvc/?username=MiguelV5&style=for-the-badge&color=181727&label=Visitors" /></p></a>--->
