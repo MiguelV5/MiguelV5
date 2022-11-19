@@ -19,7 +19,7 @@ My name is Miguel Vásquez, I'm a Computer Science Engineering student @ FIUBA (
   
 <p align="center">🌱 A list of technologies I frecuently use, or utilities I'm currently learning/improving at.  Some of these tools I’ve come across are:</p>
   
-<p align="center">・ Workspace environment:</p>
+<p align="center">・ Workspace / Environment:</p>
   
   <p align="center"> <!--- Antes de "-Ubuntu" está el label que iria a la derecha del logo. Removido para mantener convencion --->
   <a href="#"><img src="https://img.shields.io/badge/-Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=E95420&color=181727&labelColor=black" /></a>
