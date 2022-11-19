@@ -17,7 +17,7 @@ My name is Miguel Vásquez, I'm a Computer Science Engineering student @ FIUBA (
   
   <br>
   
-<p align="center">🌱 A list of technologies I frecuently use, or utilities I'm currently learning/improving at.  Some of these tools I’ve come across are:</p>
+<p align="center">🌱 A list of technologies I frecuently use, or utilities I'm currently learning/improving at.  <!---Some of these tools I’ve come across are:---></p>
   
 <p align="center">・ Workspace / Environment:</p>
   
