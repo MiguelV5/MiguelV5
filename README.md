@@ -63,6 +63,7 @@ My name is Miguel Vásquez, I'm a Computer Science Engineering student @ FIUBA (
   <a href="#"><img src="https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=181727&labelColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-GitLab-informational?style=for-the-badge&logo=gitlab&logoColor=white&color=181727&labelColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-Docker-informational?style=for-the-badge&logo=docker&logoColor=2496ED&color=181727&labelColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Qemu-informational?style=for-the-badge&logo=QEMU&logoColor=FF6600&color=181727&labelColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-VBox-informational?style=for-the-badge&logo=virtualbox&logoColor=white&color=181727&labelColor=black" /></a>
   </p>
 
@@ -70,7 +71,7 @@ My name is Miguel Vásquez, I'm a Computer Science Engineering student @ FIUBA (
 <br>
   
 <p align="center">Utilities I want to learn in the future:</p>
-<p align="center">Ruby, Haskell, Lua, Javascript, React, Angular, CSS, Sass, Typescript, Java, Kotlin, Vim, Qemu, Kubernetes... and many others.</p>
+<p align="center">Ruby, Haskell, Lua, Javascript, React, Angular, CSS, Sass, Typescript, Java, Kotlin, Vim, Kubernetes... and many others.</p>
   
 </details>
 
