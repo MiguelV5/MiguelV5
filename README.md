@@ -58,7 +58,7 @@ My name is Miguel Vásquez, I'm a Computer Science Engineering student @ FIUBA (
   <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-gdb-informational?style=for-the-badge&logo=GNU&logoColor=white&color=181727&labelColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-Jupyter-informational?style=for-the-badge&logo=jupyter&logoColor=F37626&color=181727&labelColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Deepnote-informational?style=for-the-badge&logo=deepnote&logoColor=3793EF&color=181727&labelColor=black" /></a>
+  <!---<a href="#"><img src="https://img.shields.io/badge/-Deepnote-informational?style=for-the-badge&logo=deepnote&logoColor=3793EF&color=181727&labelColor=black" /></a>--->
   <a href="#"><img src="https://img.shields.io/badge/-Git-informational?style=for-the-badge&logo=git&logoColor=F05032&color=181727&labelColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=181727&labelColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-GitLab-informational?style=for-the-badge&logo=gitlab&logoColor=white&color=181727&labelColor=black" /></a>
@@ -70,7 +70,7 @@ My name is Miguel Vásquez, I'm a Computer Science Engineering student @ FIUBA (
 
 <br>
   
-<p align="center">Stuff I want to learn or improve in the future:</p>
+<p align="center">🌿 Stuff I want to learn or improve in the future:</p>
 <p align="center">Ruby, Haskell, Lua, JavaScript, TypeScript, React, Angular, CSS, Sass, Java, Kotlin, Vim, Kubernetes... and many others.</p>
   
 </details>
