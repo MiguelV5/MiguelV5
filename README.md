@@ -21,8 +21,9 @@ My name is Miguel Vásquez, I'm a Computer Science Engineering student @ FIUBA (
   
 <p align="center">・ Workspace / Environment:</p>
   
+  <div>
   <p align="center"> <!--- Antes de "-Ubuntu" está el label que iria a la derecha del logo. Removido para mantener convencion --->
-  <a href="#"><img src="https://img.shields.io/badge/-Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=E95420&color=181727&labelColor=black" /></a>
+  <picture><img src="https://img.shields.io/badge/-Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=E95420&color=181727&labelColor=black" /></picture>
   <a href="#"><img src="https://img.shields.io/badge/-Mint-informational?style=for-the-badge&logo=linux-mint&logoColor=87CF3E&color=181727&labelColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-Fedora-informational?style=for-the-badge&logo=fedora&logoColor=51A2DA&color=181727&labelColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-Zsh-informational?style=for-the-badge&logo=gnu-bash&logoColor=5835d2&color=181727&labelColor=black" /></a>
@@ -31,6 +32,7 @@ My name is Miguel Vásquez, I'm a Computer Science Engineering student @ FIUBA (
   <a href="#"><img src="https://img.shields.io/badge/-Replit-informational?style=for-the-badge&logo=replit&logoColor=white&color=181727&labelColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-Nano-informational.svg?logo=data:image/png;base64,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&style=for-the-badge&color=181727&labelColor=black" /></a>
   </p>
+  </div>
   
 <p align="center">・ Languages:</p>
   
