@@ -42,7 +42,7 @@ My name is Miguel Vásquez, I'm a Computer Science Engineering student @ FIUBA (
   <a href="#"><img src="https://img.shields.io/badge/-Golang-informational?style=for-the-badge&logo=go&logoColor=00ADD8&color=181727&labelColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-R-informational?style=for-the-badge&logo=r&logoColor=276DC3&color=181727&labelColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-Markdown-informational?style=for-the-badge&logo=markdown&logoColor=FFFFFF&color=181727&labelColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=HTML5&logoColor=E34F26&color=181727&labelColor=black" /></a>
+  <!---<a href="#"><img src="https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=HTML5&logoColor=E34F26&color=181727&labelColor=black" /></a>--->
   </p>
   
 <p align="center">・ Libraries / Frameworks:</p>
@@ -89,7 +89,7 @@ My name is Miguel Vásquez, I'm a Computer Science Engineering student @ FIUBA (
   </a>
   
   <a href="#">
-  <img align="center" width="44%" src="https://githubreadme-stats.vercel.app/api/top-langs/?username=MiguelV5&hide=Makefile,Dockerfile,Batchfile,Oz,Jupyter%20Notebook,Assembly,TeX,Perl,Gherkin,Java&exclude_repo=parciales-viejos&layout=compact&title_color=46FFBC&icon_color=58A6FF&text_color=FFFFFF&hide_border=true&bg_color=60,0D1117,131925,354D77&langs_count=10"  />
+  <img align="center" width="44%" src="https://githubreadme-stats.vercel.app/api/top-langs/?username=MiguelV5&hide=Makefile,Dockerfile,Batchfile,Oz,Jupyter%20Notebook,Assembly,TeX,Perl,Gherkin&exclude_repo=parciales-viejos,memo1-bank-app,pagina_ucla&layout=compact&title_color=46FFBC&icon_color=58A6FF&text_color=FFFFFF&hide_border=true&bg_color=60,0D1117,131925,354D77&langs_count=10"  />
   </a>
   <!--- actualmente falla mi instancia de vercel: "...stats-miguelv5.vercel..." --->
   <!--- en caso de que falle el hide_border: border_color=0D1117  --->
