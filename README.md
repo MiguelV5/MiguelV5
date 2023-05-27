@@ -88,9 +88,9 @@ My name is Miguel Vásquez, I'm a Computer Science Engineering student @ FIUBA (
   <img align="center" width="52%" src="https://githubreadme-stats.vercel.app/api?username=MiguelV5&custom_title=GH%20Stats&title_color=46FFBC&icon_color=5FA7FA&text_color=FFFFFF&hide_border=true&bg_color=60,0D1117,131925,354D77&count_private=true&include_all_commits=true&show_icons=true" />
   </a>
   
-  <a href="#">
+  <picture>
   <img align="center" width="44%" src="https://githubreadme-stats.vercel.app/api/top-langs/?username=MiguelV5&hide=Makefile,Dockerfile,Batchfile,Oz,Jupyter%20Notebook,Assembly,TeX,Perl,Gherkin&exclude_repo=parciales-viejos,memo1-bank-app,pagina_ucla&layout=compact&title_color=46FFBC&icon_color=58A6FF&text_color=FFFFFF&hide_border=true&bg_color=60,0D1117,131925,354D77&langs_count=10"  />
-  </a>
+  </picture>
   <!--- actualmente falla mi instancia de vercel: "...stats-miguelv5.vercel..." --->
   <!--- en caso de que falle el hide_border: border_color=0D1117  --->
   <!---<a href="#"><p align="center"><img src="https://komarev.com/ghpvc/?username=MiguelV5&style=for-the-badge&color=181727&label=Visitors" /></p></a>--->
