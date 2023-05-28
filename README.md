@@ -89,7 +89,7 @@ My name is Miguel Vásquez, I'm a Computer Science Engineering student @ FIUBA (
   </a>
   
   <a href="#">
-  <img align="center" width="44%" src="https://githubreadme-stats-miguelv5.vercel.app/api/top-langs/?username=MiguelV5&hide=Makefile,Dockerfile,Batchfile,Oz,Jupyter%20Notebook,Assembly,TeX,Perl,Gherkin&exclude_repo=parciales-viejos,memo1-bank-app,pagina_ucla&layout=compact&title_color=46FFBC&icon_color=58A6FF&text_color=FFFFFF&hide_border=true&bg_color=60,0D1117,131925,354D77&langs_count=10"  />
+  <img align="center" width="44%" src="https://githubreadme-stats.vercel.app/api/top-langs/?username=MiguelV5&hide=Makefile,Dockerfile,Batchfile,Oz,Jupyter%20Notebook,Assembly,TeX,Perl,Gherkin&exclude_repo=parciales-viejos&layout=pie&title_color=46FFBC&icon_color=58A6FF&text_color=FFFFFF&hide_border=true&bg_color=60,0D1117,131925,354D77&langs_count=9"  />
   </a>
   <!--- Instancia propia de vercel: "...stats-miguelv5.vercel..." --->
   <!--- Instancia generica de vercel: githubreadme-stats.vercel.app --->
@@ -98,7 +98,6 @@ My name is Miguel Vásquez, I'm a Computer Science Engineering student @ FIUBA (
 
 </details>
 
-[comment]: # (para link de arriba; &hide=issues)
 
 ---
 
