@@ -112,7 +112,7 @@
 <br>
   
   <p align="center">
-    <a href="https://www.youtube.com/watch?v=Edc2yVHRHiQ" title="Are you up to enjoy some midnight jazz with me in the meantime? 🌙🎵"><img height="104" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/anasabdin_autumn2.gif" /></a>
+    <a href="https://www.youtube.com/watch?v=Edc2yVHRHiQ" title="Are you up to enjoy some midnight jazz with me in the meantime? 🌙🎵"><img  src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/anasabdin_autumn2.gif" /></a>
   </p>
   
 <br>
