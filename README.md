@@ -110,7 +110,7 @@
 <br>
   
   <p align="center">
-    <a href="https://www.youtube.com/watch?v=Edc2yVHRHiQ" title="Would you like to enjoy some jazz with me in the meantime? 🌙🎵" target="_blank" rel="noopener noreferrer"><img height="250" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/ferris_pixel_no_bg.gif" /></a>
+    <a href="https://www.youtube.com/watch?v=Edc2yVHRHiQ" title="Would you like to enjoy some jazz with me in the meantime? 🌙🎵"><img height="250" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/anasabdin_autumn2.gif" /></a>
   </p>
 
 <br>
