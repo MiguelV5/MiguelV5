@@ -15,7 +15,7 @@
 
 ---
 
-<a href="#"><img align="left" height="26" width="26" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/Soul_of_Sight.gif" /></a>
+<picture><img align="left" height="26" width="26" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/Soul_of_Sight.gif" /></picture>
 
 <details>
   <summary> Toolbox 🛠</summary>
@@ -83,7 +83,7 @@
 
 ---
 
-<a href="#"><img align="left" height="25" width="25"  src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/Soul_of_Flight_no_bg.gif" /></a>
+<picture><img align="left" height="25" width="25"  src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/Soul_of_Flight_no_bg.gif" /></picture>
 
 <details>
   <summary> GitHub Stats 🔋 </summary>
@@ -112,7 +112,7 @@
 <br>
   
   <p align="center">
-    <a href="https://www.youtube.com/watch?v=Edc2yVHRHiQ" title="Are you up to enjoy some midnight jazz with me in the meantime? 🌙🎵"><img  src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/anasabdin_autumn2.gif" /></a>
+    <a href="https://www.youtube.com/watch?v=Edc2yVHRHiQ" title="Are you up to enjoy some midnight jazz with me in the meantime? 🌙🎵"><img height="300" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/anasabdin_autumn2.gif" /></a>
   </p>
   
 <br>
