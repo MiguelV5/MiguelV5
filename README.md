@@ -1,11 +1,16 @@
 <!---
 <a href="#"><img align="center" src= "https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/copying.gif" /></a>
 --->
+<!---If you read this, you discovered my html mess to hold my profile together 😅--->
 
-<h2 align="left"> Welcome! How is it going? 🏂 </h2>
+<h3 align="left"> Hi there, How is it going? 👋 </h3>
 
-
-My name is Miguel Vásquez, I'm a Computer Science Engineering student @ FIUBA (Universidad de Buenos Aires). 
+<p>
+  I'm a Computer Science Engineering student @ <a href="https://fi.uba.ar">FIUBA</a>  🏂. 
+</p>
+<p>
+  By the way, if you're up for it, would you enjoy some <a href="https://www.youtube.com/watch?v=Edc2yVHRHiQ">midnight jazz</a> with me in the meantime? 🌙🎵
+</p>
 
 
 ---
@@ -17,7 +22,7 @@ My name is Miguel Vásquez, I'm a Computer Science Engineering student @ FIUBA (
   
   <br>
   
-<p align="center">🌱 A list of technologies and tools I frequently use, or I'm currently learning/improving at.  <!---Some of these tools I’ve come across are:---></p>
+<p align="center">🌱 A list of technologies and tools I frequently use, or I'm currently learning/improving at. </p>
   
 <p align="center">・ Workspace / Environment:</p>
   
