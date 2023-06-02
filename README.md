@@ -5,12 +5,11 @@
 
 <h3 align="left"> Hi there, How is it going? 👋 </h3>
 
+<!---
 <p>
   I'm a Computer Science Engineering student @ <a href="https://fi.uba.ar">FIUBA</a>  🏂. 
 </p>
-
-  <!---By the way, if you're up for it, would you enjoy some <a href="https://www.youtube.com/watch?v=Edc2yVHRHiQ">midnight jazz</a> with me in the meantime? 🌙🎵--->
-
+--->
 
 
 ---
@@ -109,11 +108,10 @@
 ---
 
 <br>
-<br>
   
   <p align="center">
-    <a href="https://www.youtube.com/watch?v=Edc2yVHRHiQ" title="Are you up to enjoy some midnight jazz with me in the meantime? 🌙🎵"><img height="300" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/anasabdin_autumn2.gif" /></a>
+    <a href="https://www.youtube.com/watch?v=Edc2yVHRHiQ" title="Are you up to enjoy some midnight jazz with me in the meantime? 🌙🎵"><img height="250" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/anasabdin_autumn2.gif" /></a>
   </p>
-  
+
 <br>
  
