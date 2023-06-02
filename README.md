@@ -54,6 +54,7 @@
   <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-Pandas-informational?style=for-the-badge&logo=pandas&logoColor=white&color=181727&labelColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-Scikit%20Learn-informational?style=for-the-badge&logo=scikit-learn&logoColor=F7931E&color=181727&labelColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/-SciPy-informational?style=for-the-badge&logo=scipy&logoColor=8CAAE6&color=181727&labelColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-Numpy-informational?style=for-the-badge&logo=numpy&logoColor=white&color=181727&labelColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-gtk%20rs-informational?style=for-the-badge&logo=GTK&logoColor=7FE719&color=181727&labelColor=black" /></a>
   </p>
