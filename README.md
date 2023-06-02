@@ -8,9 +8,9 @@
 <p>
   I'm a Computer Science Engineering student @ <a href="https://fi.uba.ar">FIUBA</a>  🏂. 
 </p>
-<p>
+
   <!---By the way, if you're up for it, would you enjoy some <a href="https://www.youtube.com/watch?v=Edc2yVHRHiQ">midnight jazz</a> with me in the meantime? 🌙🎵--->
-</p>
+
 
 
 ---
@@ -112,7 +112,7 @@
 <br>
   
   <p align="center">
-    <a href="#"><img  height="84" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/ferris_pixel_no_bg.gif" /></a>
+    <a href="https://www.youtube.com/watch?v=Edc2yVHRHiQ" title="Are you up to enjoy some midnight jazz with me in the meantime? 🌙🎵"><img height="104" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/anasabdin_autumn2.gif" /></a>
   </p>
   
 <br>
