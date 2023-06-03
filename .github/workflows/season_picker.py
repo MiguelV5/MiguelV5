@@ -2,47 +2,56 @@ import re
 import datetime
 import random
 
+MAX_SUMMER_IMAGES = 4
+MAX_AUTUMN_IMAGES = 4
+MAX_WINTER_IMAGES = 3
+MAX_SPRING_IMAGES = 3
+
+
+class SeasonStemCreator:
+    def __init__(self):
+        now = datetime.datetime.now()
+
+        if (3, 21) <= (now.month, now.day) < (6, 21):
+            self.season = '_autumn'
+            self.max_images = MAX_AUTUMN_IMAGES
+        elif (6, 21) <= (now.month, now.day) < (9, 21):
+            self.season = '_winter'
+            self.max_images = MAX_WINTER_IMAGES
+        elif (9, 21) <= (now.month, now.day) < (12, 21):
+            self.season = '_spring'
+            self.max_images = MAX_SPRING_IMAGES
+        else:
+            self.season = '_summer'
+            self.max_images = MAX_SUMMER_IMAGES
+
+    def generate_rand_stem(self):
+        return self.season + str(random.randint(1, self.max_images)) + '.gif'
+
+
 def get_current_season_gifname():
-    now = datetime.datetime.now()
-    month = now.month
+    season_stem_creator = SeasonStemCreator()
+    return season_stem_creator.generate_rand_stem()
 
-    # Determine the current season based on the month
-    if 3 <= month <= 5:
-        if random.randint(1,2) == 1:
-            return 'anasabdin_autumn.gif'
-        else:
-            return 'anasabdin_autumn2.gif'
-    elif 6 <= month <= 8:
-        return 'anasabdin_winter.gif'
-    elif 9 <= month <= 11:
-        return 'anasabdin_spring.gif'
-    else:
-        if random.randint(1,2) == 1:
-            return 'anasabdin_summer.gif'
-        else:
-            return 'anasabdin_summer_night.gif'
 
-        
 def update_gif():
-    # Read the README.md file
+
     with open('README.md', 'r') as readme_file:
         readme_content = readme_file.read()
 
-    # Specify the HTML tag with the ID
     tag_id = 'season'
 
-    # Get the current season
     current_season = get_current_season_gifname()
     new_src = 'https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/' + current_season
-    
-    # Find and replace the image source in the README.md content
+
     pattern = r'<img.*?id="{}".*?src=".*?"'.format(tag_id)
     replacement = '<img id="{}" height=210 src="{}"'.format(tag_id, new_src)
-    updated_content = re.sub(pattern, replacement, readme_content, flags=re.IGNORECASE)
+    updated_content = re.sub(pattern, replacement,
+                             readme_content, flags=re.IGNORECASE)
 
-    # Write the updated content back to the README.md file
     with open('README.md', 'w') as readme_file:
         readme_file.write(updated_content)
+
 
 if __name__ == '__main__':
     update_gif()
