@@ -23,3 +23,13 @@ jobs:
 
     - name: Update GIF
       run: python ./.github/workflows/season_picker.py
+    - name: Switching from HTTPS to SSH
+      run: git remote set-url origin ${{ secrets.ssh }}
+    - name: Check for changes
+      run: git status
+    - name: Stage changed files
+      run: git add .
+    - name: Commit changed files
+      run: git commit -m "[ACTIONS] Auto updating profile"
+    - name: Push code to master
+      run: git push origin HEAD:master
