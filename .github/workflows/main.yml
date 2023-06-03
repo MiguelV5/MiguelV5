@@ -22,4 +22,4 @@ jobs:
      # run: pip install -r requirements.txt
 
     - name: Update GIF
-      run: python update_gif.py
+      run: python ./github/workflows/season_picker.py
