@@ -37,7 +37,7 @@ def update_gif():
     
     # Find and replace the image source in the README.md content
     pattern = r'<img.*?id="{}".*?src=".*?"'.format(tag_id)
-    replacement = '<img id="{}" src="{}"'.format(tag_id, new_src)
+    replacement = '<img id="{}" height=210 src="{}"'.format(tag_id, new_src)
     updated_content = re.sub(pattern, replacement, readme_content, flags=re.IGNORECASE)
 
     # Write the updated content back to the README.md file
