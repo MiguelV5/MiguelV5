@@ -13,7 +13,7 @@ class SeasonStemCreator:
     def _get_new_image_number(self, prev_readme_content):
 
         tag_id = 'season'
-        pattern = r'<img.*?id="{}".*?src="{}(?P<number>[0-9]+)\.gif"'.format(
+        pattern = r'<img.*?id="{}".*?src="{}.*?(?P<number>[0-9])\.gif"'.format(
             tag_id, MAIN_MISC_PATH
         )
         match = re.search(pattern, prev_readme_content, flags=re.IGNORECASE)
