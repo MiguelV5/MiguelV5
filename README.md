@@ -1,7 +1,6 @@
 <!---
-<a href="#"><img align="center" src= "https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/copying.gif" /></a>
+If you read this, you discovered my html mess to hold my profile together 😅
 --->
-<!---If you read this, you discovered my html mess to hold my profile together 😅--->
 
 <h3 align="left"> Hi there, How is it going? 👋 </h3>
 
