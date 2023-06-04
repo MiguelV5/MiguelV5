@@ -110,7 +110,7 @@
 <br>
   
   <p align="center">
-    <a href="https://www.youtube.com/watch?v=Edc2yVHRHiQ" title="Would you like to enjoy some jazz with me in the meantime? 🌙🎵"><img id="season" height=210 src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/_autumn2.gif" /></a>
+    <a href="https://gist.github.com/MiguelV5/83f25a3a4c841f4493909db02f3f2bd0" title="~🌙🎵~?"><img id="season" height=210 src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/_autumn2.gif" /></a>
   </p>
 
 <br>
