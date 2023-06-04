@@ -14,7 +14,7 @@
 
 ---
 
-<picture><img align="left" height="26" width="26" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/Soul_of_Sight.gif" /></picture>
+<a href="#"><img align="left" height="26" width="26" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/Soul_of_Sight.gif" /></a>
 
 <details>
   <summary> Toolbox 🛠</summary>
@@ -82,7 +82,7 @@
 
 ---
 
-<picture><img align="left" height="25" width="25"  src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/Soul_of_Flight_no_bg.gif" /></picture>
+<a href="#"><img align="left" height="25" width="25"  src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/Soul_of_Flight_no_bg.gif" /></a>
 
 <details>
   <summary> GitHub Stats 🔋 </summary>
