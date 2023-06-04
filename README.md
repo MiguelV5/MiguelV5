@@ -26,7 +26,7 @@
 <p align="center">・ Workspace / Environment:</p>
   
   <p align="center"> <!--- Antes de "-Ubuntu" está el label que iria a la derecha del logo. Removido para mantener convencion --->
-  <a href="#"><img src="https://img.shields.io/badge/-Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=E95420&color=181727&labelColor=black" /></a>
+  <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/-Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=E95420&color=181727&labelColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-Mint-informational?style=for-the-badge&logo=linux-mint&logoColor=87CF3E&color=181727&labelColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-Fedora-informational?style=for-the-badge&logo=fedora&logoColor=51A2DA&color=181727&labelColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-Zsh-informational?style=for-the-badge&logo=gnu-bash&logoColor=5835d2&color=181727&labelColor=black" /></a>
