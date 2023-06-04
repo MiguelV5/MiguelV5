@@ -30,13 +30,13 @@ class SeasonStemCreator:
     def __init__(self, prev_readme_content):
         now = datetime.datetime.now()
 
-        if (3 <= now.month <= 5):
+        if (3, 21) <= (now.month, now.day) < (6, 20):
             self.season = '_autumn'
             self.max_images = MAX_AUTUMN_IMAGES
-        elif (6 <= now.month <= 8):
+        elif (6, 21) <= (now.month, now.day) < (9, 20):
             self.season = '_winter'
             self.max_images = MAX_WINTER_IMAGES
-        elif (9 <= now.month <= 11):
+        elif (9, 21) <= (now.month, now.day) < (12, 20):
             self.season = '_spring'
             self.max_images = MAX_SPRING_IMAGES
         else:

@@ -3,7 +3,7 @@ name: Update GIF
 on:
   schedule:
     - cron: "0 0 21 3,6,9,12 *" # Run every 3 months on the 21st at midnight
-    - cron: "0 0 * * 0"  # Run every Sunday at midnight
+    - cron: "0 0 * * *"  # Daily at midnight
   workflow_dispatch: {}  # Manually trigger the workflow
 
 jobs:
