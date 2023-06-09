@@ -94,7 +94,7 @@ If you read this, you discovered my html mess to hold my profile together 😅
   <br>
   
   <a href="#">
-  <img align="center" width="54%" src="https://githubreadme-stats-miguelv5.vercel.app/api?username=MiguelV5&custom_title=GH%20Stats&title_color=46FFBC&icon_color=5FA7FA&text_color=FFFFFF&hide_border=true&bg_color=60,0D1117,131925,354D77&count_private=true&include_all_commits=true&show_icons=true" />
+  <img align="center" width="54%" src="https://githubreadme-stats-miguelv5.vercel.app/api?username=MiguelV5&custom_title=GH%20Stats&title_color=46FFBC&icon_color=5FA7FA&text_color=FFFFFF&hide_border=true&bg_color=60,0D1117,131925,354D77&count_private=true&include_all_commits=true&show_icons=true&line_height=28" />
   </a>
 
     
