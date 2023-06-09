@@ -57,8 +57,8 @@ If you read this, you discovered my html mess to hold my profile together 😅
   <a href="https://docs.scipy.org/doc/scipy/#"><img src="https://img.shields.io/badge/-SciPy-informational?style=for-the-badge&logo=scipy&logoColor=8CAAE6&color=181727&labelColor=black" /></a>
   <a href="https://numpy.org/doc/stable/"><img src="https://img.shields.io/badge/-Numpy-informational?style=for-the-badge&logo=numpy&logoColor=white&color=181727&labelColor=black" /></a>
   <a href="https://gtk-rs.org/"><img src="https://img.shields.io/badge/-gtk%20rs-informational?style=for-the-badge&logo=GTK&logoColor=7FE719&color=181727&labelColor=black" /></a>
-  <a href=""><img src="https://img.shields.io/badge/-Spring-informational?style=for-the-badge&logo=spring&logoColor=6DB33F&color=181727&labelColor=black" /></a>
-  <a href=""><img src="https://img.shields.io/badge/-Swagger%20UI-informational?style=for-the-badge&logo=swagger&logoColor=85EA2D&color=181727&labelColor=black" /></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/-Spring%20Boot-informational?style=for-the-badge&logo=spring-boot&logoColor=6DB33F&color=181727&labelColor=black" /></a>
+  <a href="https://swagger.io/tools/swagger-ui/"><img src="https://img.shields.io/badge/-Swagger%20UI-informational?style=for-the-badge&logo=swagger&logoColor=85EA2D&color=181727&labelColor=black" /></a>
   </p>
 
 
@@ -114,7 +114,7 @@ If you read this, you discovered my html mess to hold my profile together 😅
 <br>
   
   <p align="center">
-    <a href="https://gist.github.com/MiguelV5/83f25a3a4c841f4493909db02f3f2bd0" title=" Music is the language of the soul 🌙🎵 "><img id="season" height=210 src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/_autumn4.gif" /></a>
+    <a href="https://gist.github.com/MiguelV5/83f25a3a4c841f4493909db02f3f2bd0" title=" 🌙🎵 "><img id="season" height=210 src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/_autumn4.gif" /></a>
   </p>
 
 <br>
