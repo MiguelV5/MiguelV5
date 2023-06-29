@@ -25,9 +25,10 @@ jobs:
       run: git status
     - name: Push code to master
       run: |
-          git config user.email "actions-bot@example.com"  
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com" 
           git config user.name "github-actions[bot]"
           git commit -am "Automated report"
           git push
 
-# old management email "41898282+github-actions[bot]@users.noreply.github.com"
+# in case of API changes for the bot: "actions-bot@example.com" (leaves blank commit user at webpage)
+
