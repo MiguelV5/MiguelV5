@@ -61,8 +61,8 @@ If you read this, you discovered my html mess to hold my profile together 😅
   <a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/-Scikit%20Learn-informational?style=for-the-badge&logo=scikit-learn&logoColor=F7931E&color=181727&labelColor=black" /></a>
   <a href="https://docs.scipy.org/doc/scipy/#"><img src="https://img.shields.io/badge/-SciPy-informational?style=for-the-badge&logo=scipy&logoColor=8CAAE6&color=181727&labelColor=black" /></a>
   <!--<a href="https://numpy.org/doc/stable/"><img src="https://img.shields.io/badge/-Numpy-informational?style=for-the-badge&logo=numpy&logoColor=white&color=181727&labelColor=black" /></a>-->
-  <a href="https://react.dev"><img src="https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react&logoColor=61DAFB&color=181727&labelColor=black" /></a>
-  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-NextJS-informational?style=for-the-badge&logo=next%2Ejs&logoColor=FFFFFF&color=181727&labelColor=black" /></a>
+  <!---<a href="https://react.dev"><img src="https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react&logoColor=61DAFB&color=181727&labelColor=black" /></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-NextJS-informational?style=for-the-badge&logo=next%2Ejs&logoColor=FFFFFF&color=181727&labelColor=black" /></a>--->
   <a href="https://gtk-rs.org/"><img src="https://img.shields.io/badge/-gtk%20rs-informational?style=for-the-badge&logo=GTK&logoColor=7FE719&color=181727&labelColor=black" /></a>
   </p>
 
