@@ -13,10 +13,10 @@ If you read this, you discovered my html mess to hold my profile together 😅
 
 ---
 
-<picture><img align="left" height="26" width="26" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/Soul_of_Sight.gif" /></picture>
+<a href="#/"><img align="left" height="26" width="26" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/Soul_of_Sight.gif" /></a>
 
 <details>
-  <summary> Toolbox 🛠</summary>
+  <summary> <code>  Toolbox 🛠 </code> </summary>
   
   <br>
   
@@ -87,10 +87,10 @@ If you read this, you discovered my html mess to hold my profile together 😅
 
 ---
 
-<picture><img align="left" height="25" width="25"  src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/Soul_of_Flight_no_bg.gif" /></picture>
+<a href="#/"><img align="left" height="25" width="25"  src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/Soul_of_Flight_no_bg.gif" /></a>
 
 <details>
-  <summary> GitHub Stats 🔋 </summary>
+  <summary> <code>  GitHub Stats 🔋 </code> </summary>
 
   <br>
   
