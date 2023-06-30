@@ -1,11 +1,11 @@
 import re
 import datetime
 
-MAX_SUMMER_IMAGES = 4
-MAX_AUTUMN_IMAGES = 4
-MAX_WINTER_IMAGES = 3
-MAX_SPRING_IMAGES = 3
-MAIN_MISC_PATH = 'https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/'
+MAX_SUMMER_IMAGES = 7
+MAX_AUTUMN_IMAGES = 6
+MAX_WINTER_IMAGES = 5
+MAX_SPRING_IMAGES = 6
+MAIN_MISC_PATH = 'https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/profile/seasons/'
 
 
 class SeasonStemCreator:
@@ -17,7 +17,7 @@ class SeasonStemCreator:
             tag_id, MAIN_MISC_PATH
         )
         match = re.search(pattern, prev_readme_content, flags=re.IGNORECASE)
-        
+
         if match:
             previous_image_number = int(match.group('number'))
             print('previous image num: {}'.format(previous_image_number))
