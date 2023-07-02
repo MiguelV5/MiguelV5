@@ -119,7 +119,7 @@ If you read this, you discovered my html mess to hold my profile together 😅
 <br>
   
   <p align="center">
-    <a href="https://gist.github.com/MiguelV5/83f25a3a4c841f4493909db02f3f2bd0" title=" 🌙🎵 "><img id="season" height=210 src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/profile/seasons/_winter3.gif" /></a>
+    <a href="https://gist.github.com/MiguelV5/83f25a3a4c841f4493909db02f3f2bd0" title=" 🌙🎵 "><img id="season" height=210 src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/profile/seasons/_winter4.gif" /></a>
   </p>
 
 <br>
