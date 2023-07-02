@@ -22,7 +22,7 @@ class SeasonStemCreator:
             previous_image_number = int(match.group('number'))
             print('previous image num: {}'.format(previous_image_number))
         else:
-            previous_image_number = 1  # Default value
+            previous_image_number = 1  # Default
 
         new_image_number = (previous_image_number % self.max_images) + 1
 
@@ -57,22 +57,28 @@ def get_current_season_gifname(prev_readme_content):
     return season_stem_creator.generate_new_stem()
 
 
+def replace_file_content(new_img_src, prev_readme_content):
+    tag_id = 'season'
+    pattern = r'<img.*?id="{}".*?src=".*?"'.format(tag_id)
+    replacement = '<img id="{}" height=210 src="{}"'.format(
+        tag_id, new_img_src)
+    updated_content = re.sub(pattern, replacement,
+                             prev_readme_content, flags=re.IGNORECASE)
+    return updated_content
+
+
 def update_gif():
     with open('README.md', 'r') as readme_file:
         prev_readme_content = readme_file.read()
 
-    tag_id = 'season'
+    current_season_gifname = get_current_season_gifname(prev_readme_content)
+    new_img_src = SEASONS_PATH + current_season_gifname
 
-    current_season = get_current_season_gifname(prev_readme_content)
-    new_src = SEASONS_PATH + current_season
-
-    pattern = r'<img.*?id="{}".*?src=".*?"'.format(tag_id)
-    replacement = '<img id="{}" height=210 src="{}"'.format(tag_id, new_src)
-    updated_content = re.sub(pattern, replacement,
-                             prev_readme_content, flags=re.IGNORECASE)
+    updated_file_content = replace_file_content(
+        new_img_src, prev_readme_content)
 
     with open('README.md', 'w') as readme_file:
-        readme_file.write(updated_content)
+        readme_file.write(updated_file_content)
 
 
 if __name__ == '__main__':
