@@ -1,11 +1,11 @@
 import re
 import datetime
 
-MAX_SUMMER_IMAGES = 7
+MAX_SUMMER_IMAGES = 9
 MAX_AUTUMN_IMAGES = 6
-MAX_WINTER_IMAGES = 5
-MAX_SPRING_IMAGES = 6
-MAIN_MISC_PATH = 'https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/profile/seasons/'
+MAX_WINTER_IMAGES = 8
+MAX_SPRING_IMAGES = 8
+SEASONS_PATH = 'https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/profile/seasons/'
 
 
 class SeasonStemCreator:
@@ -14,7 +14,7 @@ class SeasonStemCreator:
 
         tag_id = 'season'
         pattern = r'<img.*?id="{}".*?src="{}.*?(?P<number>[0-9])\.gif"'.format(
-            tag_id, MAIN_MISC_PATH
+            tag_id, SEASONS_PATH
         )
         match = re.search(pattern, prev_readme_content, flags=re.IGNORECASE)
 
@@ -64,7 +64,7 @@ def update_gif():
     tag_id = 'season'
 
     current_season = get_current_season_gifname(prev_readme_content)
-    new_src = MAIN_MISC_PATH + current_season
+    new_src = SEASONS_PATH + current_season
 
     pattern = r'<img.*?id="{}".*?src=".*?"'.format(tag_id)
     replacement = '<img id="{}" height=210 src="{}"'.format(tag_id, new_src)
