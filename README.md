@@ -99,12 +99,12 @@ If you read this, you discovered my html mess to hold my profile together 😅
   <br>
   
   <a href="#/">
-  <img align="center" width="54%" src="https://githubreadme-stats-miguelv5.vercel.app/api?username=MiguelV5&custom_title=GH%20Stats&title_color=46FFBC&icon_color=5FA7FA&text_color=FFFFFF&hide_border=true&bg_color=60,0D1117,131925,354D77&include_all_commits=true&show_icons=true&line_height=28" />
+  <img alt="statsCard" align="center" width="54%" src="https://githubreadme-stats-miguelv5.vercel.app/api?username=MiguelV5&custom_title=GH%20Stats&title_color=46FFBC&icon_color=5FA7FA&text_color=FFFFFF&hide_border=true&bg_color=60,0D1117,131925,354D77&include_all_commits=true&show_icons=true&line_height=28" />
   </a>
 
     
   <a href="#/">
-  <img align="center" width="40%" src="https://githubreadme-stats-miguelv5.vercel.app/api/top-langs/?username=MiguelV5&hide=Makefile,Dockerfile,Batchfile,Oz,Jupyter%20Notebook,Assembly,TeX,Perl,Gherkin,HTML,CSS&exclude_repo=parciales-viejos,examenes-algoritmos3,pruebas_algo3,github-readme-stats,priv_sisop,RandC_placeholder,aux-fa-torrent_fiuba,priv_dotfiles,7541-Hash,7541-ABB,7541-Lista&layout=compact&title_color=46FFBC&icon_color=58A6FF&text_color=FFFFFF&hide_border=true&bg_color=60,0D1117,131925,354D77&langs_count=10"  />
+  <img alt="langsCard" align="center" width="40%" src="https://githubreadme-stats-miguelv5.vercel.app/api/top-langs/?username=MiguelV5&hide=Makefile,Dockerfile,Batchfile,Oz,Jupyter%20Notebook,Assembly,TeX,Perl,Gherkin,HTML,CSS&exclude_repo=parciales-viejos,examenes-algoritmos3,pruebas_algo3,github-readme-stats,priv_sisop,RandC_placeholder,aux-fa-torrent_fiuba,priv_dotfiles,7541-Hash,7541-ABB,7541-Lista&layout=compact&title_color=46FFBC&icon_color=58A6FF&text_color=FFFFFF&hide_border=true&bg_color=60,0D1117,131925,354D77&langs_count=10"  />
   </a>
   <!--- My own instance: "...stats-miguelv5.vercel..." --->
   <!--- upstream instance: githubreadme-stats.vercel.app --->
@@ -119,7 +119,7 @@ If you read this, you discovered my html mess to hold my profile together 😅
 <br>
   
   <p align="center">
-    <a href="https://gist.github.com/MiguelV5/83f25a3a4c841f4493909db02f3f2bd0" title=" 🌙🎵 "><img id="season" width="70%" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/profile/seasons/_winter3.gif" /></a>
+    <a href="https://gist.github.com/MiguelV5/83f25a3a4c841f4493909db02f3f2bd0" title=" 🌙🎵 "><img id="season" width="70%" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/profile/seasons/_winter3.gif" alt="stash" /></a>
   </p>
   <!--- All credit for the gifs goes to their original sources: 1) @anasabdin on twitter.  2) http://www.effectgames.com/demos/canvascycle/ --->
 
