@@ -63,6 +63,7 @@ If you read this, you discovered my html mess to hold my profile together 😅
   <!--<a href="https://numpy.org/doc/stable/"><img src="https://img.shields.io/badge/-Numpy-informational?style=for-the-badge&logo=numpy&logoColor=white&color=181727&labelColor=black" /></a>-->
   <!---<a href="https://react.dev"><img src="https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react&logoColor=61DAFB&color=181727&labelColor=black" /></a>
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-NextJS-informational?style=for-the-badge&logo=next%2Ejs&logoColor=FFFFFF&color=181727&labelColor=black" /></a>--->
+  <a href="https://kit.svelte.dev/"><img src="https://img.shields.io/badge/-SvelteKit-informational?style=for-the-badge&logo=svelte&logoColor=FF3E00&color=181727&labelColor=black" />
   <a href="https://gtk-rs.org/"><img src="https://img.shields.io/badge/-gtk%20rs-informational?style=for-the-badge&logo=GTK&logoColor=7FE719&color=181727&labelColor=black" /></a>
   </p>
 
