@@ -105,7 +105,7 @@ If you read this, you discovered my html mess to hold my profile together 😅
 
     
   <a href="#/">
-  <img alt="langsCard" align="center" width="40%" src="https://githubreadme-stats-miguelv5.vercel.app/api/top-langs/?username=MiguelV5&hide=Makefile,Dockerfile,Batchfile,Oz,Jupyter%20Notebook,Assembly,TeX,Perl,Gherkin,HTML,CSS&exclude_repo=parciales-viejos,examenes-algoritmos3,pruebas_algo3,github-readme-stats,priv_sisop,RandC_placeholder,aux-fa-torrent_fiuba,priv_dotfiles,7541-Hash,7541-ABB,7541-Lista&layout=compact&title_color=46FFBC&icon_color=58A6FF&text_color=FFFFFF&hide_border=true&bg_color=60,0D1117,131925,354D77&langs_count=10"  />
+  <img alt="langsCard" align="center" width="40%" src="https://githubreadme-stats-miguelv5.vercel.app/api/top-langs/?username=MiguelV5&hide=Makefile,Dockerfile,Batchfile,Oz,Jupyter%20Notebook,Assembly,TeX,Perl,Gherkin,HTML,CSS&exclude_repo=py_todo_webapps,parciales-viejos,taller_algo3,pruebas_algo3,github-readme-stats,priv_sisop,RandC_placeholder,aux-fa-torrent_fiuba,resoluciones-rustlings-1c2022,priv_dotfiles,7541-Hash,7541-ABB,7541-Lista&layout=compact&title_color=46FFBC&icon_color=58A6FF&text_color=FFFFFF&hide_border=true&bg_color=60,0D1117,131925,354D77&langs_count=10"  />
   </a>
   <!--- My own instance: "...stats-miguelv5.vercel..." --->
   <!--- upstream instance: githubreadme-stats.vercel.app --->
