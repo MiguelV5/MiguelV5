@@ -60,7 +60,7 @@ def get_current_season_gifname(prev_readme_content):
 def replace_file_content(new_img_src, prev_readme_content):
     tag_id = 'season'
     pattern = r'<img.*?id="{}".*?src=".*?"'.format(tag_id)
-    replacement = '<img id="{}" width="50%" src="{}"'.format(
+    replacement = '<img id="{}" width="65%" src="{}"'.format(
         tag_id, new_img_src)
     updated_content = re.sub(pattern, replacement,
                              prev_readme_content, flags=re.IGNORECASE)
