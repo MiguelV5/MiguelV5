@@ -2,7 +2,7 @@ import re
 import datetime
 
 MAX_SUMMER_IMAGES = 9
-MAX_AUTUMN_IMAGES = 6
+MAX_AUTUMN_IMAGES = 7
 MAX_WINTER_IMAGES = 7
 MAX_SPRING_IMAGES = 8
 SEASONS_PATH = 'https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/profile/seasons/'
