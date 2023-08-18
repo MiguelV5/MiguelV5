@@ -55,12 +55,11 @@ If you read this, you discovered my html mess to hold my profile together 😅
 <p align="center">・ Libraries / Frameworks:</p>
   <p align="center">
   <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/-Fast%20API-informational?style=for-the-badge&logo=fastapi&logoColor=009688&color=181727&labelColor=black" /></a>
-  <a href="https://swagger.io/tools/swagger-ui/"><img src="https://img.shields.io/badge/-Swagger%20UI-informational?style=for-the-badge&logo=swagger&logoColor=85EA2D&color=181727&labelColor=black" /></a>
   <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/-Spring%20Boot-informational?style=for-the-badge&logo=spring-boot&logoColor=6DB33F&color=181727&labelColor=black" /></a>
   <a href="https://pandas.pydata.org/docs/index.html"><img src="https://img.shields.io/badge/-Pandas-informational?style=for-the-badge&logo=pandas&logoColor=white&color=181727&labelColor=black" /></a>
   <a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/-Scikit%20Learn-informational?style=for-the-badge&logo=scikit-learn&logoColor=F7931E&color=181727&labelColor=black" /></a>
   <a href="https://docs.scipy.org/doc/scipy/#"><img src="https://img.shields.io/badge/-SciPy-informational?style=for-the-badge&logo=scipy&logoColor=8CAAE6&color=181727&labelColor=black" /></a>
-  <!--<a href="https://numpy.org/doc/stable/"><img src="https://img.shields.io/badge/-Numpy-informational?style=for-the-badge&logo=numpy&logoColor=white&color=181727&labelColor=black" /></a>-->
+  <a href="https://numpy.org/doc/stable/"><img src="https://img.shields.io/badge/-Numpy-informational?style=for-the-badge&logo=numpy&logoColor=white&color=181727&labelColor=black" /></a>
   <!---<a href="https://react.dev"><img src="https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react&logoColor=61DAFB&color=181727&labelColor=black" /></a>
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-NextJS-informational?style=for-the-badge&logo=next%2Ejs&logoColor=FFFFFF&color=181727&labelColor=black" /></a>--->
   <a href="https://kit.svelte.dev/"><img src="https://img.shields.io/badge/-SvelteKit-informational?style=for-the-badge&logo=svelte&logoColor=FF3E00&color=181727&labelColor=black" />
