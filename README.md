@@ -56,12 +56,13 @@ If you read this, you discovered my html mess to hold my profile together 😅
   <p align="center">
   <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/-Fast%20API-informational?style=for-the-badge&logo=fastapi&logoColor=009688&color=181727&labelColor=black" /></a>
   <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/-Spring%20Boot-informational?style=for-the-badge&logo=spring-boot&logoColor=6DB33F&color=181727&labelColor=black" /></a>
+  <a href="https://numpy.org/doc/stable/"><img src="https://img.shields.io/badge/-Numpy-informational?style=for-the-badge&logo=numpy&logoColor=white&color=181727&labelColor=black" /></a>
   <a href="https://pandas.pydata.org/docs/index.html"><img src="https://img.shields.io/badge/-Pandas-informational?style=for-the-badge&logo=pandas&logoColor=white&color=181727&labelColor=black" /></a>
   <a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/-Scikit%20Learn-informational?style=for-the-badge&logo=scikit-learn&logoColor=F7931E&color=181727&labelColor=black" /></a>
   <a href="https://docs.scipy.org/doc/scipy/#"><img src="https://img.shields.io/badge/-SciPy-informational?style=for-the-badge&logo=scipy&logoColor=8CAAE6&color=181727&labelColor=black" /></a>
-  <a href="https://numpy.org/doc/stable/"><img src="https://img.shields.io/badge/-Numpy-informational?style=for-the-badge&logo=numpy&logoColor=white&color=181727&labelColor=black" /></a>
   <!---<a href="https://react.dev"><img src="https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react&logoColor=61DAFB&color=181727&labelColor=black" /></a>
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-NextJS-informational?style=for-the-badge&logo=next%2Ejs&logoColor=FFFFFF&color=181727&labelColor=black" /></a>--->
+  <!--<a href="https://redux.js.org/"><img src="https://img.shields.io/badge/-Redux-informational?style=for-the-badge&logo=redux&logoColor=764ABC&color=181727&labelColor=black" /></a>-->
   <a href="https://kit.svelte.dev/"><img src="https://img.shields.io/badge/-SvelteKit-informational?style=for-the-badge&logo=svelte&logoColor=FF3E00&color=181727&labelColor=black" />
   <a href="https://gtk-rs.org/"><img src="https://img.shields.io/badge/-gtk%20rs-informational?style=for-the-badge&logo=GTK&logoColor=7FE719&color=181727&labelColor=black" /></a>
   </p>
@@ -69,13 +70,19 @@ If you read this, you discovered my html mess to hold my profile together 😅
 
 <p align="center">・ Misc:</p>
   <p align="center">
-  <a href="https://www.sourceware.org/gdb/"><img src="https://img.shields.io/badge/-gdb-informational?style=for-the-badge&logo=GNU&logoColor=white&color=181727&labelColor=black" /></a>
   <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/-Jupyter-informational?style=for-the-badge&logo=jupyter&logoColor=F37626&color=181727&labelColor=black" /></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-informational?style=for-the-badge&logo=git&logoColor=F05032&color=181727&labelColor=black" /></a>
   <a href="https://github.com"><img src="https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=181727&labelColor=black" /></a>
   <a href="https://about.gitlab.com/"><img src="https://img.shields.io/badge/-GitLab-informational?style=for-the-badge&logo=gitlab&color=181727&labelColor=black" /></a>
   <a href="https://wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-informational?style=for-the-badge&logo=wireshark&logoColor=1679A7&color=181727&labelColor=black" /></a>
-  <!---<a href="#"><img src="https://img.shields.io/badge/-Docker-informational?style=for-the-badge&logo=docker&logoColor=2496ED&color=181727&labelColor=black" /></a>--->
+  <a href="https://render.com/"><img src="https://img.shields.io/badge/-Render-informational?style=for-the-badge&logo=render&logoColor=46E3B7&color=181727&labelColor=black" /></a>
+  <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/-Notion-informational?style=for-the-badge&logo=notion&logoColor=white&color=181727&labelColor=black" /></a>
+  <a href="https://obsproject.com"><img src="https://img.shields.io/badge/-OBS-informational?style=for-the-badge&logo=obs-studio&logoColor=white&color=181727&labelColor=black" /></a>
+  <!---<a href="https://www.gimp.org/"><img src="https://img.shields.io/badge/-GIMP-informational?style=for-the-badge&logo=gimp&logoColor=white&color=181727&labelColor=black" /></a>--->
+  <!---<a href="https://inkscape.org/"><img src="https://img.shields.io/badge/-InkScape-informational?style=for-the-badge&logo=inkscape&logoColor=white&color=181727&labelColor=black" /></a>--->
+  <!---<a href="https://www.postman.com/"><img src="https://img.shields.io/badge/-Postman-informational?style=for-the-badge&logo=postman&logoColor=FF6C37&color=181727&labelColor=black" /></a>--->
+  <a href="https://www.sourceware.org/gdb/"><img src="https://img.shields.io/badge/-gdb-informational?style=for-the-badge&logo=GNU&logoColor=white&color=181727&labelColor=black" /></a>
+  <!---<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-informational?style=for-the-badge&logo=docker&logoColor=2496ED&color=181727&labelColor=black" /></a>--->
   <a href="https://www.qemu.org/"><img src="https://img.shields.io/badge/-Qemu-informational?style=for-the-badge&logo=QEMU&logoColor=FF6600&color=181727&labelColor=black" /></a>
   <a href="https://www.virtualbox.org/"><img src="https://img.shields.io/badge/-VBox-informational?style=for-the-badge&logo=virtualbox&logoColor=white&color=181727&labelColor=black" /></a>
   </p>
@@ -84,7 +91,7 @@ If you read this, you discovered my html mess to hold my profile together 😅
 <br>
   
 <p align="center">🌿 Stuff I want to learn or improve in the future:</p>
-<p align="center">Ruby, Lua, Elixir, Erlang, TypeScript, Svelte, Vue, Kotlin, Haskell... and many others.</p>
+<p align="center">Ruby, Lua, Elixir, Erlang, TypeScript, React, Vue, Kotlin, Haskell......</p>
   
 </details>
 
