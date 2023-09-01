@@ -70,10 +70,11 @@ If you read this, you discovered my html mess to hold my profile together 😅
 
 <p align="center">・ Misc:</p>
   <p align="center">
-  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/-Jupyter-informational?style=for-the-badge&logo=jupyter&logoColor=F37626&color=181727&labelColor=black" /></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-informational?style=for-the-badge&logo=docker&logoColor=2496ED&color=181727&labelColor=black" /></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-informational?style=for-the-badge&logo=git&logoColor=F05032&color=181727&labelColor=black" /></a>
   <a href="https://github.com"><img src="https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=181727&labelColor=black" /></a>
   <a href="https://about.gitlab.com/"><img src="https://img.shields.io/badge/-GitLab-informational?style=for-the-badge&logo=gitlab&color=181727&labelColor=black" /></a>
+  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/-Jupyter-informational?style=for-the-badge&logo=jupyter&logoColor=F37626&color=181727&labelColor=black" /></a>
   <a href="https://wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-informational?style=for-the-badge&logo=wireshark&logoColor=1679A7&color=181727&labelColor=black" /></a>
   <a href="https://render.com/"><img src="https://img.shields.io/badge/-Render-informational?style=for-the-badge&logo=render&logoColor=46E3B7&color=181727&labelColor=black" /></a>
   <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/-Notion-informational?style=for-the-badge&logo=notion&logoColor=white&color=181727&labelColor=black" /></a>
@@ -82,7 +83,6 @@ If you read this, you discovered my html mess to hold my profile together 😅
   <!---<a href="https://inkscape.org/"><img src="https://img.shields.io/badge/-InkScape-informational?style=for-the-badge&logo=inkscape&logoColor=white&color=181727&labelColor=black" /></a>--->
   <!---<a href="https://www.postman.com/"><img src="https://img.shields.io/badge/-Postman-informational?style=for-the-badge&logo=postman&logoColor=FF6C37&color=181727&labelColor=black" /></a>--->
   <a href="https://www.sourceware.org/gdb/"><img src="https://img.shields.io/badge/-gdb-informational?style=for-the-badge&logo=GNU&logoColor=white&color=181727&labelColor=black" /></a>
-  <!---<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-informational?style=for-the-badge&logo=docker&logoColor=2496ED&color=181727&labelColor=black" /></a>--->
   <a href="https://www.qemu.org/"><img src="https://img.shields.io/badge/-Qemu-informational?style=for-the-badge&logo=QEMU&logoColor=FF6600&color=181727&labelColor=black" /></a>
   <a href="https://www.virtualbox.org/"><img src="https://img.shields.io/badge/-VBox-informational?style=for-the-badge&logo=virtualbox&logoColor=white&color=181727&labelColor=black" /></a>
   </p>
