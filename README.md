@@ -55,7 +55,7 @@ If you read this, you discovered my html mess to hold my profile together 😅
 <p align="center">・ Libraries / Frameworks:</p>
   <p align="center">
   <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/-Fast%20API-informational?style=for-the-badge&logo=fastapi&logoColor=009688&color=181727&labelColor=black" /></a>
-  <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/-Spring%20Boot-informational?style=for-the-badge&logo=spring-boot&logoColor=6DB33F&color=181727&labelColor=black" /></a>
+  <a href="https://spring.io"><img src="https://img.shields.io/badge/-Spring-informational?style=for-the-badge&logo=spring&logoColor=6DB33F&color=181727&labelColor=black" /></a>
   <a href="https://numpy.org/doc/stable/"><img src="https://img.shields.io/badge/-Numpy-informational?style=for-the-badge&logo=numpy&logoColor=white&color=181727&labelColor=black" /></a>
   <a href="https://pandas.pydata.org/docs/index.html"><img src="https://img.shields.io/badge/-Pandas-informational?style=for-the-badge&logo=pandas&logoColor=white&color=181727&labelColor=black" /></a>
   <a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/-Scikit%20Learn-informational?style=for-the-badge&logo=scikit-learn&logoColor=F7931E&color=181727&labelColor=black" /></a>
