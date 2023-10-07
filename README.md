@@ -28,7 +28,7 @@ If you read this, you discovered my html mess to hold my profile together 😅
   <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/-Ubuntu-informational?style=for-the-badge&logo=ubuntu&logoColor=E95420&color=181727&labelColor=black" /></a>
   <a href="https://linuxmint.com/"><img src="https://img.shields.io/badge/-Mint-informational?style=for-the-badge&logo=linux-mint&logoColor=87CF3E&color=181727&labelColor=black" /></a>
   <a href="https://fedoraproject.org/en/"><img src="https://img.shields.io/badge/-Fedora-informational?style=for-the-badge&logo=fedora&logoColor=51A2DA&color=181727&labelColor=black" /></a>
-  <a href=""><img src="https://img.shields.io/badge/-Manjaro-informational?style=for-the-badge&logo=manjaro&logoColor=35BF5C&color=181727&labelColor=black" /></a>
+  <a href="https://manjaro.org/"><img src="https://img.shields.io/badge/-Manjaro-informational?style=for-the-badge&logo=manjaro&logoColor=35BF5C&color=181727&labelColor=black" /></a>
   <a href="https://zsh.sourceforge.io/"><img src="https://img.shields.io/badge/-Zsh-informational?style=for-the-badge&logo=gnu-bash&logoColor=5835d2&color=181727&labelColor=black" /></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=43AB38&color=181727&labelColor=black" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-VSC-informational?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4&color=181727&labelColor=black" /></a>
@@ -80,7 +80,7 @@ If you read this, you discovered my html mess to hold my profile together 😅
   <a href="https://wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-informational?style=for-the-badge&logo=wireshark&logoColor=1679A7&color=181727&labelColor=black" /></a>
   <a href="https://www.sourceware.org/gdb/"><img src="https://img.shields.io/badge/-gdb-informational?style=for-the-badge&logo=GNU&logoColor=white&color=181727&labelColor=black" /></a>
   <a href="https://render.com/"><img src="https://img.shields.io/badge/-Render-informational?style=for-the-badge&logo=render&logoColor=46E3B7&color=181727&labelColor=black" /></a>
-  <a href="https://www.notion.so/"><img src="https://img.shields.io/badge/-Notion-informational?style=for-the-badge&logo=notion&logoColor=white&color=181727&labelColor=black" /></a>
+  <a href="https://www.notion.so/product"><img src="https://img.shields.io/badge/-Notion-informational?style=for-the-badge&logo=notion&logoColor=white&color=181727&labelColor=black" /></a>
   <a href="https://obsproject.com"><img src="https://img.shields.io/badge/-OBS-informational?style=for-the-badge&logo=obs-studio&logoColor=white&color=181727&labelColor=black" /></a>
   <!---<a href="https://www.gimp.org/"><img src="https://img.shields.io/badge/-GIMP-informational?style=for-the-badge&logo=gimp&logoColor=white&color=181727&labelColor=black" /></a>--->
   <!---<a href="https://inkscape.org/"><img src="https://img.shields.io/badge/-InkScape-informational?style=for-the-badge&logo=inkscape&logoColor=white&color=181727&labelColor=black" /></a>--->
