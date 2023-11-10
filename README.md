@@ -1,15 +1,8 @@
 <!---
-If you read this, you discovered my html mess to hold my profile together 😅
+Some trickery to bypass github restrictions for displaying html within markdown 😅
 --->
 
 <h3 align="left"> Hi there, How is it going? 👋 </h3>
-
-<!---
-<p>
-  I'm a Computer Science Engineering student @ <a href="https://fi.uba.ar">FIUBA</a>  🏂. 
-</p>
---->
-
 
 ---
 
@@ -65,6 +58,7 @@ If you read this, you discovered my html mess to hold my profile together 😅
   <a href="https://www.qemu.org/"><img src="https://img.shields.io/badge/-Qemu-informational?style=for-the-badge&logo=QEMU&logoColor=FF6600&color=181727&labelColor=black" /></a>
   <a href="https://www.virtualbox.org/"><img src="https://img.shields.io/badge/-VBox-informational?style=for-the-badge&logo=virtualbox&logoColor=white&color=181727&labelColor=black" /></a>
   <a href="https://wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-informational?style=for-the-badge&logo=wireshark&logoColor=1679A7&color=181727&labelColor=black" /></a>
+  <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/-Postman-informational?style=for-the-badge&logo=postman&logoColor=FF6C37&color=181727&labelColor=black" /></a>
   <a href="https://www.sourceware.org/gdb/"><img src="https://img.shields.io/badge/-gdb-informational?style=for-the-badge&logo=GNU&logoColor=white&color=181727&labelColor=black" /></a>
   <a href="https://render.com/"><img src="https://img.shields.io/badge/-Render-informational?style=for-the-badge&logo=render&logoColor=46E3B7&color=181727&labelColor=black" /></a>
   <a href="https://www.notion.so/product"><img src="https://img.shields.io/badge/-Notion-informational?style=for-the-badge&logo=notion&logoColor=white&color=181727&labelColor=black" /></a>
@@ -73,7 +67,6 @@ If you read this, you discovered my html mess to hold my profile together 😅
   <a href="https://www.ffmpeg.org/"><img src="https://img.shields.io/badge/-FFmpeg-informational?style=for-the-badge&logo=ffmpeg&logoColor=007808&color=181727&labelColor=black" /></a>
   <!---<a href="https://www.gimp.org/"><img src="https://img.shields.io/badge/-GIMP-informational?style=for-the-badge&logo=gimp&logoColor=white&color=181727&labelColor=black" /></a>--->
   <!---<a href="https://inkscape.org/"><img src="https://img.shields.io/badge/-InkScape-informational?style=for-the-badge&logo=inkscape&logoColor=white&color=181727&labelColor=black" /></a>--->
-  <!---<a href="https://www.postman.com/"><img src="https://img.shields.io/badge/-Postman-informational?style=for-the-badge&logo=postman&logoColor=FF6C37&color=181727&labelColor=black" /></a>--->
   </p>
 
 
