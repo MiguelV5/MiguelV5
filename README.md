@@ -13,7 +13,7 @@ Some trickery to bypass github restrictions for displaying html within markdown 
   
   <br>
   
-<p align="center">🌱 A list of technologies and tools I frequently use, or I'm currently learning/improving at. </p>
+<p align="center">🌱 A list of technologies and tools that I frequently use and am constantly improving at </p>
   
 <p align="center">・ Languages:</p>
   
@@ -88,8 +88,8 @@ Some trickery to bypass github restrictions for displaying html within markdown 
 
 <br>
   
-<p align="center">🌿 Stuff I want to learn or improve in the future:</p>
-<p align="center">Erlang, Elixir, Lua, Ruby, TypeScript, Vue, Kotlin, GDScript......</p>
+<p align="center">🌿 Stuff I want to learn:</p>
+<p align="center">Erlang, Elixir, Lua, Ruby, TypeScript, Vue, Kotlin......</p>
   
 </details>
 
