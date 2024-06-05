@@ -27,8 +27,9 @@ Some trickery to bypass github restrictions for displaying html within markdown 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=HTML5&logoColor=E34F26&color=181727&labelColor=black" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS-informational?style=for-the-badge&logo=CSS3&logoColor=1572B6&color=181727&labelColor=black" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference"><img src="https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=181727&labelColor=black" /></a>
-  <!---<a href=""><img src="https://img.shields.io/badge/-SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=7AC4E3&color=181727&labelColor=black" /></a>
-  <a href=""><img src="https://img.shields.io/badge/-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=181727&labelColor=black" /></a>--->
+  <a href=""><img src="https://img.shields.io/badge/-SQLite-informational?style=for-the-badge&logo=sqlite&logoColor=7AC4E3&color=181727&labelColor=black" /></a>
+  <a href=""><img src="https://img.shields.io/badge/-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=181727&labelColor=black" /></a>
+  <a href=""><img src="https://img.shields.io/badge/-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=47A248&color=181727&labelColor=black" /></a>
   <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/-R-informational?style=for-the-badge&logo=r&logoColor=276DC3&color=181727&labelColor=black" /></a>
   <a href="https://www.markdownguide.org/"><img src="https://img.shields.io/badge/-Markdown-informational?style=for-the-badge&logo=markdown&logoColor=FFFFFF&color=181727&labelColor=black" /></a>
   </p>
