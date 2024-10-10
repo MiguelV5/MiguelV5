@@ -115,7 +115,7 @@ Some trickery to bypass github restrictions for displaying html within markdown 
 <br>
   
   <p align="center">
-    <a href="https://gist.github.com/MiguelV5/83f25a3a4c841f4493909db02f3f2bd0" title=" 🌙🎵 "><img id="season" width="65%" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/profile/seasons/_spring5.gif" alt="stash" /></a>
+    <a href="https://gist.github.com/MiguelV5/83f25a3a4c841f4493909db02f3f2bd0" title=" 🌙🎵 "><img id="season" width="65%" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/profile/seasons/_spring6.gif" alt="stash" /></a>
   </p>
   <!--- All credit for the gifs goes to their original sources: 1) @anasabdin on twitter.  2) http://www.effectgames.com/demos/canvascycle/ --->
 
