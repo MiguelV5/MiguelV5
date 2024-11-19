@@ -1,0 +1,32 @@
+name: Cache generated README images
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Update README"]
+    types:
+      - completed
+
+
+jobs:
+  update-assets:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
+
+    - name: Download svgs
+      run: |
+        mkdir -p misc/profile
+        curl 'https://githubreadme-stats-miguelv5.vercel.app/api?username=MiguelV5&custom_title=GH%20Stats&title_color=46FFBC&icon_color=5FA7FA&text_color=FFFFFF&hide_border=true&bg_color=60,0D1117,131925,354D77&include_all_commits=true&show_icons=true&line_height=28' -o misc/profile/stats.svg
+        curl 'https://githubreadme-stats-miguelv5.vercel.app/api/top-langs/?username=MiguelV5&hide=Makefile,Dockerfile,Batchfile,Oz,Jupyter%20Notebook,Assembly,TeX,Perl,Gherkin,HTML,CSS,SQL&exclude_repo=py_todo_webapps,parciales-viejos,taller_algo3,pruebas_algo3,examenes-algoritmos3,github-readme-stats,7508_Sistemas_Operativos,aux-fa-torrent_fiuba,resoluciones-rustlings-1c2022,priv_dotfiles,7541-Hash,7541-ABB,7541-Lista&layout=compact&title_color=46FFBC&icon_color=58A6FF&text_color=FFFFFF&hide_border=true&bg_color=60,0D1117,131925,354D77&langs_count=8' -o misc/profile/top-langs.svg
+
+    - name: Push svgs
+      run: |
+        git config user.name "actions-user"
+        git config user.email "actions@github.com"
+        git add misc/profile/stats.svg
+        git add misc/profile/top-langs.svg
+        git commit -m "chore(assets): update generated images cache"
+        git push origin
