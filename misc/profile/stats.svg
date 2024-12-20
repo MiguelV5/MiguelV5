@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">GH Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 29, Total Commits  : 29, Total PRs: 246, Total Issues: 331, Contributed to (last year): 12</desc>
+        <desc id="descId">Total Stars Earned: 29, Total Commits  : 29, Total PRs: 246, Total Issues: 330, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -67,7 +67,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 107.58335745981141;
+        stroke-dashoffset: 107.5005312872019;
       }
     }
   
@@ -211,7 +211,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >331</text>
+      >330</text>
     </g>
   </g><g transform="translate(0, 112)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
