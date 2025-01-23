@@ -6,7 +6,7 @@ Some trickery to bypass github restrictions for displaying html within markdown 
 
 ---
 
-<a href="#/"><img align="left" height="26" width="26" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/profile/Soul_of_Sight.gif" /></a>
+<picture><img align="left" height="26" width="26" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/profile/Soul_of_Sight.gif" alt="" /></picture>
 
 <details>
   <summary> <code>  Toolbox 🛠 </code> </summary>
@@ -91,21 +91,21 @@ Some trickery to bypass github restrictions for displaying html within markdown 
 
 ---
 
-<a href="#/"><img align="left" height="25" width="25"  src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/profile/Soul_of_Flight_no_bg.gif" /></a>
+<picture><img align="left" height="25" width="25"  src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/profile/Soul_of_Flight_no_bg.gif" /></picture>
 
 <details>
   <summary> <code>  GitHub Stats 🔋 </code> </summary>
 
   <br>
   
-  <a href="#/">
-  <img alt="statsCard" align="center" width="54%" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/refs/heads/main/misc/profile/stats.svg" /></a>
+  <picture>
+  <img alt="statsCard" align="center" width="54%" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/refs/heads/main/misc/profile/stats.svg" /></picture>
 
 
 
-  <a href="#/">
+  <picture>
   <img alt="langsCard" align="center" width="40%" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/refs/heads/main/misc/profile/top-langs.svg"  />
-  </a>
+  </picture>
   <!--- My own instance: "...stats-miguelv5.vercel..." --->
   <!--- upstream instance: githubreadme-stats.vercel.app --->
   <!--- just in case hide_border fails: border_color=0D1117  --->
@@ -119,7 +119,7 @@ Some trickery to bypass github restrictions for displaying html within markdown 
 <br>
   
   <p align="center">
-    <a href="https://gist.github.com/MiguelV5/83f25a3a4c841f4493909db02f3f2bd0" title=" 🌙🎵 "><img id="season" width="65%" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/profile/seasons/_summer3.gif" alt="stash" /></a>
+    <a href="https://gist.github.com/MiguelV5/83f25a3a4c841f4493909db02f3f2bd0" title=" 🌙🎵 "><picture><img id="season" width="65%" src="https://raw.githubusercontent.com/MiguelV5/MiguelV5/main/misc/profile/seasons/_summer3.gif" alt="stash" /></picture></a>
   </p>
   <!--- All credit for the gifs goes to their original sources: 1) @anasabdin on twitter.  2) http://www.effectgames.com/demos/canvascycle/ --->
 
